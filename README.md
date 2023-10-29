@@ -1,4 +1,2 @@
-Admin Panaline Giriş İçin;
-admin@gmail.com ve 123456 olarak e mail ve şifre ayarlanmıştır. 
----
-Eğer xammp gibi ortamlarda çalıştıracaksanız htdocs klasörüne sadece veri tabanını Web ve Admin klasörlerini atmanız gerekiyor veya bağlantı uzantısını değiştirmelisiniz...
+For Login to Admin Panel; e-mail and password are set as admin@gmail.com and 123456.
+If you are going to run in environments such as xammp, you only need to put the database, Web and Admin folders in the htdocs folder or change the connection extension...
